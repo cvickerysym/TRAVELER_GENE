@@ -1,0 +1,16 @@
+Index: Auth.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>username = 'cvickery@symbotic.com'\r\npasskey = 'Symbotic!@#4'
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Auth.py b/Auth.py
+--- a/Auth.py	(revision ee257b37ad340ce434f2807ccebc23e87ddb144b)
++++ b/Auth.py	(date 1730863849764)
+@@ -1,2 +1,2 @@
+-username = 'cvickery@symbotic.com'
+-passkey = 'Symbotic!@#4'
+\ No newline at end of file
++username = "cvickery@symbtoic.com"
++passkey = "Symbotic!@#4"

@@ -1,0 +1,14 @@
+Index: auth.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>username = 'cvickery@symbotic.com'\r\npasskey = 'Symbotic!@#4'
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/auth.py b/auth.py
+new file mode 100644
+--- /dev/null	(date 1730864746827)
++++ b/auth.py	(date 1730864746827)
+@@ -0,0 +1,2 @@
++username = input("input user ID")
++passkey = input("input password")
