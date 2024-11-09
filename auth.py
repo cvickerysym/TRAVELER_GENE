@@ -1,2 +1,2 @@
-username = input("input user ID")
-passkey = input("input password")
+username = 'cvickery@symbotic.com'
+passkey = 'Symbotic!@#4'
