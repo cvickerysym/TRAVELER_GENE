@@ -145,7 +145,7 @@ def print_files_to_printer(pdf_files, printer_name):
         win32print.ClosePrinter(printer)
 
 def run_psbots(bot_list, output_dir):
-    url = "https://qsbi-symbotic.us.qlikcloud.com/sense/app/ac49ed6b-f0b8-4837-b2e7-36ee0c1f19f6/sheet/eMkZPS/state/analysis/hubUrl/%2Fcatalog%3Fquick_search_filter%3DPAL%26space_filter%3D62f3ed488f9ea270826ce0c7"
+    url = "https://qsbi-symbotic.us.qlikcloud.com/sense/app/ac49ed6b-f0b8-4837-b2e7-36ee0c1f19f6/sheet/KVdhUhJ/state/analysis/hubUrl/%2Finsights%2Fhome"
     download_dir = 'C:/Users/cvickery/Downloads'
     alpha_c_template_path = "C:/Users/cvickery/PycharmProjects/PDFGENERATOR/SymBot AlphaC Traveler v16.pdf"
     one_point_zero_template_path = "C:/Users/cvickery/PycharmProjects/PDFGENERATOR/SymBot 1.0 Traveler vH.pdf"
