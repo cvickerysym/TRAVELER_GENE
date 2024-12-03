@@ -68,3 +68,6 @@ def run_combined_bot_process():
 
 if __name__ == "__main__":
     run_combined_bot_process()
+
+
+#need to add Induct and removal sheet and add to PDFGENATOR
